@@ -1,0 +1,5 @@
+com\emc\api\coe\sample\ApiCoeDataRestProjectionsApplication.class
+com\emc\api\coe\sample\entity\Employee.class
+com\emc\api\coe\sample\repository\EmployeeExcerpt.class
+com\emc\api\coe\sample\repository\EmployeeRepository.class
+com\emc\api\coe\sample\repository\EmployeeRepositoryConfig.class

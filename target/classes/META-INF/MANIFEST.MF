@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-Title: api-coe-data-rest-projections
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.emc.api.coe
+Build-Jdk: 1.7.0_51
+Built-By: shanmv4
+Created-By: Maven Integration for Eclipse
+Main-Class: com.emc.api.coe.ApiCoeDataRestProjectionsApplication
+
