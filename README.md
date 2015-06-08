@@ -15,7 +15,7 @@ Step 3: Edit the POM file and add required dependencies as below:
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.emc.api.coe</groupId>
+	<groupId>com.api.coe</groupId>
 	<artifactId>api-coe-data-rest-projections</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
@@ -32,7 +32,7 @@ Step 3: Edit the POM file and add required dependencies as below:
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<start-class>com.emc.api.coe.ApiCoeDataRestProjectionsApplication</start-class>
+		<start-class>com.api.coe.ApiCoeDataRestProjectionsApplication</start-class>
 		<java.version>1.7</java.version>
 	</properties>
 
